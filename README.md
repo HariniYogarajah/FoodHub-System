@@ -24,19 +24,19 @@ Technologies Used
 Screenshots
 
 Login Form
-![Login Form](login%20form.png)
+<img src="login form.png" width="500">
 
 Register Form
-![Register Form](register%20form.png)
+<img src="register form.png" width="500">
 
 Dashboard
-![Dashboard](dashboard%20form.png)
+<img src="dashboard form.png" width="500">
 
 Customer Form
-![Customer Form](customer%20form.png)
+<img src="customer form.png" width="500">
 
 Preference Form
-![Preference Form](preferance%20form.png)
+<img src="preferance form.png" width="500">
 
 Project Structure
 
