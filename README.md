@@ -21,22 +21,22 @@ Technologies Used
 - SQL Server
 - Visual Studio
 
-Screenshots
+## Screenshots
 
-Login Form
-<img src="login form.png" width="400px">
+### Login Form
+<img src="login form.png" width="300">
 
-Register Form
-<img src="register form.png" width="400px">
+### Register Form
+<img src="register form.png" width="300">
 
-Dashboard
-<img src="dashboard form.png" width="400px">
+### Dashboard
+<img src="dashboard form.png" width="300">
 
-Customer Form
-<img src="customer form.png" width="400px">
+### Customer Form
+<img src="customer form.png" width="300">
 
-Preference Form
-<img src="preferance form.png" width="400px">
+### Preference Form
+<img src="preferance form.png" width="300">
 
 Project Structure
 
